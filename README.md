@@ -11,7 +11,8 @@ train.csv - the training set
 test.csv - the test set
 sample_submission.csv - a sample submission file in the correct format
 
-Columns
+153 Columns
+
 'MachineID' : Unique Identifier for Each Machine
 'ProductName': Name of the Installed Antivirus Product
 'EngineVersion': Version of the Antivirus Engine
